@@ -13,8 +13,6 @@ Here is the progress of the project.
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Bootloader (EFI using [Gummiboot] [gummi] and BIOS using [GRUB2] [grub]);
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Clean orphans.
-#
 #Hard Drive Manager
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Provide a 'Help Guide' to Wipe disk ([SSD Memory Cell Clearing] [cellclean]), create GPT, partitioning and formating;
@@ -100,6 +98,11 @@ Here is the progress of the project.
 ![plus] (http://s30.postimg.org/3jwa5oc65/Add_New_32.png) Verify firmware of SSD and provide automatic updates;
 #
 ![plus] (http://s30.postimg.org/3jwa5oc65/Add_New_32.png) RAID 0 'Help Guide'. [See] [noop].
+#
+#Cleanup finishing
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Clean orphans;
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Reboot.
 #
 #
 #
