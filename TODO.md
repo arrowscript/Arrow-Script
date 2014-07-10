@@ -5,6 +5,8 @@ Here is the progress of the project.
 #ESSENTIALS
 ![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux CORE as [custom `kernel -ck`] [kernel] and Update system;
 #
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Test Network conection (only will work with internet);
+#
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Set [`Clang LLVM`] [clang] to default compiler;
 #
 ![inprogress] (http://s22.postimg.org/w7fyxlg2l/Media_Play_32.png)  Implement Hardware Detection (specify here);
