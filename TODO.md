@@ -11,7 +11,7 @@ Here is the progress of the project.
 #
 ![inprogress] (http://s22.postimg.org/w7fyxlg2l/Media_Play_32.png)  Implement Hardware Detection (specify here);
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Telemetry using IP address to configure automatic Time Zone and Linguage;
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Telemetry using IP address to configure automatic Time Zone and Language;
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Basic's configurations;
 #
