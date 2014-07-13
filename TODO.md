@@ -68,8 +68,6 @@ Here is the progress of the project.
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Disable [IPV6] [ipv6];
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Set [Google DNS] [dns];
-#
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Config. [`mkinitcpio`] [mkinitcpio].
 #
 #Composer and Desktop Environment
