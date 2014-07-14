@@ -3,9 +3,9 @@
 Here is the progress of the project.
 #
 #ESSENTIALS
-![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux CORE as [custom `kernel -ck`] [kernel] and Update system;
+![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux core as custom [`kernel -ck`] [kernel] and Update system;
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Test Network conection (only will work with internet);
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Test Network conection (script only will work with internet);
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Set [`Clang LLVM`] [clang] to default compiler;
 #
@@ -27,20 +27,20 @@ Here is the progress of the project.
 `inode64 | nobarrier | unmask_irq | unwritten=0 | agcount | -l size=128m | lazy-count=1 | noatime | nodiratime | relatime | noquota | -b size=64KB (block size)`
 #
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Make [`FITRIM`] [fitrim] adjustments.
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Make [`FITRIM`] [fitrim].
 #
 #Graphics libs and Drivers
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install `current` proprietary drivers;
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) If nVidia, install core integration [`CUDA`] [cuda]. Else, install [Catalyst™] [catalyst] (AMD);
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) If nVidia, install too core integration [`CUDA`] [cuda]. Else, install [Catalyst™/Mantle] [catalyst] (AMD);
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Check [`MESA`] [mesa] and [`OpenGL`] [opengl] and instalations;
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Check [`MESA`] [mesa] and [`OpenGL`] [opengl] instalations;
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install ALSA.
 #AUR packages
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install a [AUR Helper] [aurhelper]. We will use [`Pacaur`] [pacaur], because it is fast and dont need root acess, and don't make many questions like `Yaourt`;
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install a [AUR Helper] [aurhelper]. We will use [`Pacaur`] [pacaur], because it is fast and don't need root acess, and don't make many questions like `Yaourt`;
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`Powerpill`] [powerpill];
 #
@@ -110,7 +110,7 @@ Here is the progress of the project.
 #
 [cellclean]:https://wiki.archlinux.org/index.php/SSD_Memory_Cell_Clearing
 [kernel]:https://wiki.archlinux.org/index.php/Linux-ck
-[clang]: http://clang.llvm.org/
+[clang]: https://github.com/llvm-mirror/clang
 [gummi]: https://wiki.archlinux.org/index.php/Gummiboot
 [grub]: https://wiki.archlinux.org/index.php/GRUB
 [btrfs]: https://btrfs.wiki.kernel.org/
