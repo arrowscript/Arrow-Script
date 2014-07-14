@@ -3,7 +3,7 @@
 Here is the progress of the project.
 #
 #ESSENTIALS
-![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux core as custom [`kernel -ck`] [kernel] and Update system;
+![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux core as custom [`kernel -ck`] [kernel], enabling the [BFQ I/O Scheduler] [bfq] and Update system;
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Test Network conection (script only will work with internet);
 #
@@ -152,3 +152,4 @@ Here is the progress of the project.
 [zpaq]: https://github.com/zpaq/zpaq
 [compressbench]: http://mattmahoney.net/dc/text.html
 [ulatencyd]: https://aur.archlinux.org/packages/ulatencyd-git/
+[bfq]: https://wiki.archlinux.org/index.php/linux-ck#How%20to%20enable%20the%20BFQ%20I/O%20Scheduler
