@@ -47,7 +47,7 @@ BRTFS custom:
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install a [AUR Helper] [aurhelper]. We will use [`Pacaur`] [pacaur], because it is fast and don't need root acess, and don't make many questions like `Yaourt`;
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Reduce latancy using [`Ulatencyd`] [ulatencyd], [Prelink] [prelink], [Preload] [preload] and [VeryNice] [verynice];
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Reduce latency using [Ulatencyd] [ulatencyd], [Prelink] [prelink], [Preload] [preload] and [VeryNice] [verynice];
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`Powerpill`] [powerpill];
 #
