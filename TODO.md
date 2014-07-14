@@ -47,7 +47,7 @@ BRTFS custom:
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install a [AUR Helper] [aurhelper]. We will use [`Pacaur`] [pacaur], because it is fast and don't need root acess, and don't make many questions like `Yaourt`;
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Reduce latancy using [`Ulatencyd`] [ulatencyd], [Prelink] [prelink] and [Preload] [preload];
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Reduce latancy using [`Ulatencyd`] [ulatencyd], [Prelink] [prelink], [Preload] [preload] and [VeryNice] [verynice];
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`Powerpill`] [powerpill];
 #
@@ -160,3 +160,4 @@ BRTFS custom:
 [bfq]: https://wiki.archlinux.org/index.php/linux-ck#How%20to%20enable%20the%20BFQ%20I/O%20Scheduler
 [prelink]: https://www.archlinux.org/packages/community/x86_64/prelink/
 [preload]: https://aur.archlinux.org/packages/preload/
+[verynice]: https://aur.archlinux.org/packages/verynice/
