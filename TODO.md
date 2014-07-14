@@ -47,7 +47,7 @@ BRTFS custom:
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install a [AUR Helper] [aurhelper]. We will use [`Pacaur`] [pacaur], because it is fast and don't need root acess, and don't make many questions like `Yaourt`;
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Reduce latency using [Ulatencyd] [ulatencyd], [Prelink] [prelink], [Preload] [preload] and [VeryNice] [verynice];
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Reduce latency using [Ulatencyd] [ulatencyd] (seems to not work. Try to build from [Git] [gitulatency] and install libcgroup from [AUR] [libcgroup] - some tips of compiling [here] [tipulatency]), [Prelink] [prelink], [Preload] [preload] and [VeryNice] [verynice];
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`Powerpill`] [powerpill];
 #
@@ -164,3 +164,6 @@ BRTFS custom:
 [preload]: https://aur.archlinux.org/packages/preload/
 [verynice]: https://aur.archlinux.org/packages/verynice/
 [dnscache]: https://www.archlinux.org/packages/extra/x86_64/dnsmasq/
+[gitulatency]: https://github.com/poelzi/ulatencyd
+[libcgroup]: https://aur.archlinux.org/packages/libcgroup/
+[tipulatency]: https://aur.archlinux.org/packages/ulatencyd-git/?comments=all
