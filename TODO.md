@@ -24,8 +24,13 @@ Here is the progress of the project.
   [BRTFS] [btrfs] to SSD/Hibrid and [XFS] [xfs] to HDD.
 #
 #
-`inode64 | nobarrier | unmask_irq | unwritten=0 | agcount | -l size=128m | lazy-count=1 | noatime | nodiratime | relatime | noquota | -b size=64KB (block size)`
+XFS custom:
 #
+`inode64 nobarrier unmask_irq unwritten=0 agcount -l size=128m logbsize=256k lazy-count=1 noatime nodiratime relatime noquota delaylog -b size=64KB`
+#
+BRTFS custom: 
+#
+`noatime nobarrier nodatacow nodatasum ssd ssd_spread`
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Make [`FITRIM`] [fitrim].
 #
