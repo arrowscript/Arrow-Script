@@ -53,6 +53,8 @@ BRTFS custom:
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install Network Manager [`ConnMan`] [connman];
 #
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install and config. [dnsmasq] [dnscache];
+#
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`HTOP`] [htop];
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`MOC` player] [moc];
@@ -88,7 +90,7 @@ BRTFS custom:
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Aditional config's.
 #
-#Compile Firefox and addons
+#Network
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Compile Firefox Nightly from [Mercurial] [mercurial];
 #
@@ -161,3 +163,4 @@ BRTFS custom:
 [prelink]: https://www.archlinux.org/packages/community/x86_64/prelink/
 [preload]: https://aur.archlinux.org/packages/preload/
 [verynice]: https://aur.archlinux.org/packages/verynice/
+[dnscache]: https://www.archlinux.org/packages/extra/x86_64/dnsmasq/
