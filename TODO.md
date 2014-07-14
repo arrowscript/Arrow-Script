@@ -61,13 +61,15 @@ BRTFS custom:
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`P7ZIP`] [p7zip] (make LZMA2 was default);
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`OpenRC`] [openrc]:;
-#
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`wlterm`] [wlterm] (terminal for Wayland):
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`zpaq`] [zpaq] or the firt usable on the [benchmarks] [compressbench] of compression team. Use it just for backups and save some space !Caution! - really experimental and not garanted.
 #
 #Configurations
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Disable [SELinux] [selinux] (impact system around 7%);
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Systemd profiling;
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Use [`LZ4`] [lz4] has default compress algorithm;
 #
@@ -167,3 +169,4 @@ BRTFS custom:
 [gitulatency]: https://github.com/poelzi/ulatencyd
 [libcgroup]: https://aur.archlinux.org/packages/libcgroup/
 [tipulatency]: https://aur.archlinux.org/packages/ulatencyd-git/?comments=all
+[selinux]: http://selinuxproject.org/page/Main_Page
