@@ -42,6 +42,8 @@ Here is the progress of the project.
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install a [AUR Helper] [aurhelper]. We will use [`Pacaur`] [pacaur], because it is fast and don't need root acess, and don't make many questions like `Yaourt`;
 #
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`Ulatencyd`] [ulatencyd];
+#
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`Powerpill`] [powerpill];
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install Network Manager [`ConnMan`] [connman];
@@ -149,3 +151,4 @@ Here is the progress of the project.
 [wlterm]:  http://lists.freedesktop.org/archives/wayland-devel/2012-September/005529.html
 [zpaq]: https://github.com/zpaq/zpaq
 [compressbench]: http://mattmahoney.net/dc/text.html
+[ulatencyd]: https://aur.archlinux.org/packages/ulatencyd-git/
