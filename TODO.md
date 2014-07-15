@@ -3,7 +3,7 @@
 Here is the progress of the project.
 #
 #ESSENTIALS
-![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux core as custom [`kernel -ck`] [kernel], enabling the [BFQ I/O Scheduler] [bfq] and Update system;
+![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux core as custom [`kernel -ck`] [kernel] from CPU-specific & optimized packages [Repo-ck] [repock], enabling the [BFQ I/O Scheduler] [bfq] and Update system;
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Test Network conection (script only will work with internet);
 #
@@ -120,6 +120,7 @@ BRTFS custom:
 #
 #
 [cellclean]:https://wiki.archlinux.org/index.php/SSD_Memory_Cell_Clearing
+[repock]: http://repo-ck.com
 [kernel]:https://aur.archlinux.org/packages/linux-ck/
 [clang]: https://github.com/llvm-mirror/clang
 [gummi]: https://wiki.archlinux.org/index.php/Gummiboot
