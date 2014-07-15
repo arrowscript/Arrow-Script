@@ -77,7 +77,7 @@ BRTFS custom:
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Disable `CPUfreq` (optional);
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Disable [IPV6] [ipv6];
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Disable kernel modules [IPV6] [ipv6], `nls_utf8`, `nf_conntrack_netbios_ns` and `floppy`;
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Config. [`mkinitcpio`] [mkinitcpio].
 #
