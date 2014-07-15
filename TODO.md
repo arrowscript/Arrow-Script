@@ -19,7 +19,7 @@ Here is the progress of the project.
 #
 #Hard Drive Manager
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Provide a 'Help Guide' to Wipe disk ([SSD Memory Cell Clearing] [cellclean]), create GPT, partitioning and formating;
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Provide a 'Help Guide' to Wipe disk ([SSD Memory Cell Clearing] [cellclean]), create GPT, partitioning, verify 4kb sector disk alignment and formating;
 #
   [BRTFS] [btrfs] to SSD/Hibrid and [XFS] [xfs] to HDD.
 #
