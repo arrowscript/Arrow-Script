@@ -120,7 +120,7 @@ BRTFS custom:
 #
 #
 [cellclean]:https://wiki.archlinux.org/index.php/SSD_Memory_Cell_Clearing
-[kernel]:https://wiki.archlinux.org/index.php/Linux-ck
+[kernel]:https://aur.archlinux.org/packages/linux-ck/
 [clang]: https://github.com/llvm-mirror/clang
 [gummi]: https://wiki.archlinux.org/index.php/Gummiboot
 [grub]: https://wiki.archlinux.org/index.php/GRUB
