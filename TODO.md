@@ -7,8 +7,6 @@ Here is the progress of the project.
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Test Network conection (script only will work with internet);
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Set [`Clang LLVM`] [clang] to default compiler;
-#
 ![inprogress] (http://s22.postimg.org/w7fyxlg2l/Media_Play_32.png)  Implement Hardware Detection (specify here);
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Telemetry using IP address to configure automatic Time Zone and Language;
@@ -122,7 +120,6 @@ BRTFS custom:
 [cellclean]:https://wiki.archlinux.org/index.php/SSD_Memory_Cell_Clearing
 [repock]: http://repo-ck.com
 [kernel]:https://aur.archlinux.org/packages/linux-ck/
-[clang]: https://github.com/llvm-mirror/clang
 [gummi]: https://wiki.archlinux.org/index.php/Gummiboot
 [grub]: https://wiki.archlinux.org/index.php/GRUB
 [btrfs]: https://btrfs.wiki.kernel.org/
