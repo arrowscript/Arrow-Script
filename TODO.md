@@ -94,7 +94,7 @@ BRTFS custom:
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Compile Firefox Nightly from [Mercurial] [mercurial] with [Profile-Guided Optimization] [pgo] (disable features unusable);
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install some Plugins by default: [UI Enhancer] [addonuienhancer], [Nightly Tester Tools] [nightlytool] (this will eliminate incompatibility with some addon's), [Youtube HTML5] [ythtml5] (Wayland have some troubles with Flash player), [Adblock Plus] [adblock] (with adition [filter lists] [adlist]) and [VIM FX] [vimfx] (optional).
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install some Plugins by default: [UI Enhancer] [addonuienhancer], [Nightly Tester Tools] [nightlytool] (this will eliminate incompatibility with some addon's), [Youtube HTML5] [ythtml5] (Wayland have some troubles with Flash player), [Adblock Plus] [adblock] (with adition [filter lists] [adlist]), [Element Hide] [elementhide] and [VIM FX] [vimfx] (optional).
 #
 #Visual
 #
@@ -169,3 +169,4 @@ BRTFS custom:
 [tipulatency]: https://aur.archlinux.org/packages/ulatencyd-git/?comments=all
 [selinux]: http://selinuxproject.org/page/Main_Page
 [pgo]: https://developer.mozilla.org/en-US/docs/Building_with_Profile-Guided_Optimization
+[elementhide]: https://addons.mozilla.org/en-us/firefox/addon/elemhidehelper/?src=cb-dl-users
