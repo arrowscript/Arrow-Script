@@ -61,7 +61,7 @@ BRTFS custom:
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`wlterm`] [wlterm] (terminal for Wayland):
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [`zpaq`] [zpaq] or the firt usable on the [benchmarks] [compressbench] of compression team. Use it just for backups and save some space !Caution! - really experimental and not garanted.
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Automatize Scripts to make backup's. Use compiled versions from the [Benchmarks] [compressbench] or [Silesia Benckmark] [silesia].
 #
 #Configurations
 #
@@ -170,3 +170,4 @@ BRTFS custom:
 [selinux]: http://selinuxproject.org/page/Main_Page
 [pgo]: https://developer.mozilla.org/en-US/docs/Building_with_Profile-Guided_Optimization
 [elementhide]: https://addons.mozilla.org/en-us/firefox/addon/elemhidehelper/?src=cb-dl-users
+[silesia]: http://mattmahoney.net/dc/silesia.html
