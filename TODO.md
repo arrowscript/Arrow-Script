@@ -3,7 +3,7 @@
 Here is the progress of the project.
 #
 #ESSENTIALS
-![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux core with [GNU/Linux-Libre kernel] [gnukernel], compiled with flags for specific archtecture (-o3 -match=*arch-here*) and then apply [Real Time patch] [rtpatch] and [`patch BFS Kolivas`] [kernel] from CPU-specific & optimized packages [Repo-ck] [repock], enabling the [BFQ I/O Scheduler] [bfq] and Update system;
+![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux core with [GNU/Linux-Libre kernel] [gnukernel], compiled with flags for specific archtecture (-o3 -match=*arch-here*) and then apply [Real Time patch] [rtpatch] and [`patch BFS Kolivas`] [kernel] or try [Repo-ck] [repock], enabling the [BFQ I/O Scheduler] [bfq] and Update system;
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Test Network conection (script only will work with internet);
 #
