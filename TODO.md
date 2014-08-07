@@ -5,7 +5,7 @@ Here is the progress of the project.
 #ESSENTIALS
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Try [Libreboot] [libreboot] or [Coreboot] [coreboot].
 #
-![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux core with [GNU/Linux-Libre kernel] [gnukernel], compiled with flags for specific archtecture (-o3 -match=*arch-here*) and then apply [Real Time patch] [rtpatch] and [`patch BFS Kolivas`] [kernel] or try [Repo-ck] [repock], enabling the [BFQ I/O Scheduler] [bfq] and Update system;
+![done] (http://s8.postimg.org/vzpt8pj3l/Check_32.png)  Build ArchLinux core with [GNU/Linux-Libre kernel] [gnukernel], compiled with flags for specific archtecture (-o3 -match=*arch-here*) and then apply [Real Time patch] [rtpatch] and [`patch BFS Kolivas`] [kernel] or try [Repo-ck] [repock], enabling the [BFQ I/O Scheduler] [bfq] and Update system. [re]Check system with these [scripts] [deblob] ;
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Test Network conection (script only will work with internet);
 #
@@ -177,3 +177,4 @@ BRTFS custom:
 [rtpatch]: https://rt.wiki.kernel.org/index.php/Main_Page
 [libreboot]: http://libreboot.org/
 [coreboot]: http://coreboot.org/
+[deblob]: http://www.fsfla.org/svn/fsfla/software/linux-libre/scripts/
