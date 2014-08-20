@@ -30,7 +30,9 @@ XFS custom:
 #
 BRTFS custom: 
 #
-`noatime nobarrier nodatacow nodatasum ssd ssd_spread`
+`noatime nobarrier nodatacow nodatasum ssd ssd_spread space_cache compress=lz4`
+#
+Note: for LZ4 compression use patch.
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Make [`FITRIM`] [fitrim].
 #
