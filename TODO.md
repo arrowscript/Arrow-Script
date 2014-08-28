@@ -119,6 +119,40 @@ Note: for LZ4 compression use patch.
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Clean orphans;
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Reboot.
 #
+Research
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) See more about about [IRQ] [irq] settings;
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)
+
+Disable `zone_reclaim`.
+Set (sysctl):
+
+`vm.zone_reclaim_mode = 0` 
+
+on /etc/sysctl.conf
+
+(execute sysctl -p to load on kernel);
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) 
+View more [about] [hugepage]: `/sys/kernel/mm/transparent_hugepage/enabled`;
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Enable NUMA interleaving for your application: run with numactl --interleave=all COMMAND ;
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) view more [NTK] [ntk]; 
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) View about [Kdbus] [kdbus];
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Patch BTRFS with LZ4 patch for compression. See [here] [lz4btrfs] and [here] [lz4btrfs1];
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)
+Configs:
+
+`PREEMPT=y`
+`CONFIG_1000_HZ=y`
+#
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Try LLVM Linux [Clang to compile kernel] [kernelclang];
+#
 #
 #
 [cellclean]:https://wiki.archlinux.org/index.php/SSD_Memory_Cell_Clearing
@@ -180,3 +214,10 @@ Note: for LZ4 compression use patch.
 [libreboot]: http://libreboot.org/
 [coreboot]: http://coreboot.org/
 [deblob]: http://www.fsfla.org/svn/fsfla/software/linux-libre/scripts/
+[irq]: http://wiki.linuxaudio.org/wiki/lowlatency_deprecated
+[hugepage]: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Performance_Tuning_Guide/s-memory-transhuge.html
+[ntk]: http://non.tuxfamily.org/wiki/NTK
+[kdbus]: Kdbus: https://github.com/gregkh/kdbus
+[lz4btrfs]: https://github.com/miaoxie/linux-btrfs
+[lz4btrfs1]: http://www.spinics.net/lists/linux-btrfs/msg17407.html
+[kernelclang]: http://git.linuxfoundation.org/llvmlinux.git/
