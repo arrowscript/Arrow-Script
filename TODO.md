@@ -217,7 +217,7 @@ Configs:
 [irq]: http://wiki.linuxaudio.org/wiki/lowlatency_deprecated
 [hugepage]: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Performance_Tuning_Guide/s-memory-transhuge.html
 [ntk]: http://non.tuxfamily.org/wiki/NTK
-[kdbus]: Kdbus: https://github.com/gregkh/kdbus
+[kdbus]: https://github.com/gregkh/kdbus
 [lz4btrfs]: https://github.com/miaoxie/linux-btrfs
 [lz4btrfs1]: http://www.spinics.net/lists/linux-btrfs/msg17407.html
 [kernelclang]: http://git.linuxfoundation.org/llvmlinux.git/
