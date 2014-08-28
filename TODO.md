@@ -119,7 +119,7 @@ Note: for LZ4 compression use patch.
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Clean orphans;
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)  Reboot.
 #
-Research
+#Research
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) See more about about [IRQ] [irq] settings;
 #
