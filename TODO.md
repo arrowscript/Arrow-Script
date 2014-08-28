@@ -44,7 +44,7 @@ Note: for LZ4 compression use patch.
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Check [`MESA`] [mesa] and [`OpenGL`] [opengl] instalations;
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install ALSA.
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install [JACK] [jack].
 #AUR packages
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) Install a [AUR Helper] [aurhelper]. We will use [`Pacaur`] [pacaur], because it is fast and don't need root acess, and don't make many questions like `Yaourt`;
@@ -221,3 +221,4 @@ Configs:
 [lz4btrfs]: https://github.com/miaoxie/linux-btrfs
 [lz4btrfs1]: http://www.spinics.net/lists/linux-btrfs/msg17407.html
 [kernelclang]: http://git.linuxfoundation.org/llvmlinux.git/
+[jack]: http://www.rncbc.org/jack/
