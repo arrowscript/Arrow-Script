@@ -121,7 +121,7 @@ Note: for LZ4 compression use patch.
 #
 #Research
 #
-![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) See more about about [IRQ] [irq] settings;
+![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) See more about about [IRQ] [irq] settings . [RHEL page] [rhelperf];
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)
 
@@ -222,3 +222,4 @@ Configs:
 [lz4btrfs1]: http://www.spinics.net/lists/linux-btrfs/msg17407.html
 [kernelclang]: http://git.linuxfoundation.org/llvmlinux.git/
 [jack]: http://www.rncbc.org/jack/
+[rhelperf]: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Performance_Tuning_Guide/s-cpu-irq.html
