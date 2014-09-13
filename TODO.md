@@ -121,6 +121,12 @@ Note: for LZ4 compression use patch.
 #
 #Research
 #
+RT-patches: https://www.kernel.org/pub/linux/kernel/projects/rt/
+#
+Mainling listis for RT:
+http://www.spinics.net/lists/linux-rt-users/
+http://marc.info/?l=linux-rt-users
+#
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png) See more about about [IRQ] [irq] settings . [RHEL page] [rhelperf];
 #
 ![notdone] (http://s29.postimg.org/unjjnhs1v/Document_Error_01_32.png)
